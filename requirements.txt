@@ -1,0 +1,4 @@
+flask
+opentelemetry-distro
+opentelemetry-api
+opentelemetry-sdk
